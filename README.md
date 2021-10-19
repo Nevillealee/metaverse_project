@@ -9,13 +9,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/Nevillealee]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/nevillealee/metaverse_project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Metaverse Project</h3>
@@ -67,9 +66,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `nevillealee`, `metaverse_project`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `Metaverse Project`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,12 +96,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/nevillealee/metaverse_project.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
@@ -175,10 +172,10 @@ Project Link: [https://github.com/nevillealee/metaverse_project](https://github.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
+<!--
 * []()
 * []()
-* []()
+* []() -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
