@@ -172,9 +172,9 @@ Project Link: [https://github.com/nevillealee/metaverse_project](https://github.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-<!--
-* []()
-* []()
+
+* [Neville Lee](https://github.com/nevillealee)
+<!-- * []()
 * []() -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
